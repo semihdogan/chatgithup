@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "141052517304",
+    "firebase_url": "https://chatuygulamam-d88f8.firebaseio.com",
+    "project_id": "chatuygulamam-d88f8",
+    "storage_bucket": "chatuygulamam-d88f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141052517304:android:9f8569eca228b672",
+        "android_client_info": {
+          "package_name": "com.iamethx.lenovo.chatuygulamam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141052517304-6l3gp8o99ei23sbi342aaanarks45v2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iamethx.lenovo.chatuygulamam",
+            "certificate_hash": "beb5b4e27d2a9ec4df6961a4fdc896ef069cabd5"
+          }
+        },
+        {
+          "client_id": "141052517304-173r2iducefsgnqa9fi4f1ql1p8bj8nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5IAOahOw-kSmOzuwHYEDQXUSFMn_ocoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141052517304-173r2iducefsgnqa9fi4f1ql1p8bj8nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
